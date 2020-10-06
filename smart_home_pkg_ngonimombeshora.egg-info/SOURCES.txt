@@ -1,0 +1,6 @@
+README.md
+setup.py
+smart_home_pkg_ngonimombeshora.egg-info/PKG-INFO
+smart_home_pkg_ngonimombeshora.egg-info/SOURCES.txt
+smart_home_pkg_ngonimombeshora.egg-info/dependency_links.txt
+smart_home_pkg_ngonimombeshora.egg-info/top_level.txt
